@@ -4,8 +4,8 @@ void INSERTION(char *V, int length);
 void SHOW_VET(char *V, int length);
 
 void main() {
-    char V[] = {'E', 'C', 'K', 'H', 'A', 'R', 'D', 'T'};
-    int length = 8;
+    char V[] = {'L', 'U', 'C', 'A', 'S'};
+    int length = 5;
     
     INSERTION(V, length);
     SHOW_VET(V, length);
