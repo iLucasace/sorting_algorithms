@@ -1,4 +1,4 @@
-# sorting_algorithms
+# Sorting Algorithms
 
 This repository contains the following sorting algorithms:
 
@@ -9,4 +9,4 @@ This repository contains the following sorting algorithms:
 - Shell Sort
 - Heap Sort
 
-All written in the C language.
+All written in the **C language**.
